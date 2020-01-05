@@ -1,13 +1,18 @@
 {
-    "name": "sblaisot/topline",
-    "description": "The topline plugin let you add information into the roundcube topline.",
+    "name": "roundcubevnz/topline",
+    "description": "The topline plugin let you add information into the roundcube topline larry based skins.",
     "license": "GPL-3.0+",
     "type": "roundcube-plugin",
-    "homepage": "https://github.com/sblaisot/roundcube-topline",
+    "homepage": "https://github.com/roundcubevnz/roundcube-plugin-topline",
     "authors": [
         {
             "name": "Sébastien Blaisot",
             "email": "sebastien@blaisot.org",
+            "role": "Author"
+        },
+        {
+            "name": "PICCORO Lenz McKAY",
+            "email": "mckaygerhard@gmail.com",
             "role": "Developer"
         }
     ] 
