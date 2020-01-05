@@ -24,9 +24,9 @@ class topline extends rcube_plugin
     {
         $this->add_texts('localization/', false);
 
-        $this->load_config('config/config.inc.php.dist');
-        if(file_exists("./plugins/topline/config/config.inc.php"))
-          $this->load_config('config/config.inc.php');
+        $this->load_config('config.inc.php.dist');
+        if(file_exists("./plugins/topline/config.inc.php"))
+          $this->load_config('config.inc.php');
 
         $this->add_hook('login_after', array($this, 'store_lastlogin'));
         $this->add_hook('template_container', array($this, 'update_container'));

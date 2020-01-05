@@ -4,6 +4,7 @@
     "license": "GPL-3.0+",
     "type": "roundcube-plugin",
     "homepage": "https://github.com/roundcubevnz/roundcube-plugin-topline",
+    "version": "0.0.7",
     "authors": [
         {
             "name": "Sébastien Blaisot",

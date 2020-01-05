@@ -1,6 +1,7 @@
 v0.0.7 :
 * updated info in files
 * stop spaming the log due a warning array
+* reorganize files and use only rc 0.9+ to 1.4
 
 v0.0.6 :
 * Add weather

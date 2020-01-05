@@ -17,10 +17,9 @@ See [INSTALL.md](INSTALL.md) for configurations
 
 In order for this plugin to work, it needs some containers into the topline.
 as of roundcube 0.8.3, this containers doesn't exist yet.
-A patch has been proposed and included in the upcoming 0.9-beta
-http://trac.roundcube.net/ticket/1488846
-You can find the patch in the roundcube-patch directory.
-You will have to apply this patch against your 0.8.x roundcube installation in order for this plugin to work.
+You can find the patch at the commit https://github.com/roundcubevnz/roundcube-plugin-topline/commit/6a5a1ed5d9a988b7248319b930a27927c59bc0fd
+in the roundcube-patch directory, apply this patch against your 0.8.x roundcube 
+in order for this plugin to work.
 
 # License
 
