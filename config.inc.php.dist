@@ -16,12 +16,12 @@
  */
 
 
-$rcmail_config['topline_left_content'] = array('weather');
+$rcmail_config['topline_left_content'] = array('mail_host');
 $rcmail_config['topline_center_content'] = array('full_name', ' - ', 'lastlogin');
 $rcmail_config['topline_right_content'] = array('email');
 
 /* hide username showed by default in larry's topline */
-$rcmail_config['topline_hide_username'] = TRUE;
+$rcmail_config['topline_hide_username'] = FALSE;
 
 /* Location for weather conditions */
 /* Find it on yahoo weather */
